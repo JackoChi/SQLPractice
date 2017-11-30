@@ -1,0 +1,1 @@
+In this guided project, you used Pandas to clean a CSV dataset and export it to an SQLite database. The feature of academy_awards dataset allows me to explore the individual columns to see if they obtain information. What is more, I cleaned and filtered the column to see who won the Oscar, which helps for further exploration. 
